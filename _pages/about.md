@@ -13,16 +13,6 @@ I earned my Ph.D. in Electrical Engineering, with an emphasis on Communication a
 Throughout my career, I have developed extensive experience in teaching, research, and student mentoring. My teaching interests span core electrical engineering courses as well as artificial intelligence and machine learning courses. My research focuses on the theory and applications of AI/ML for wireless communications and signal processing, particularly in distributed multi-agent wireless systems.
 
 I have authored publications in IEEE journals, delivered invited talks, secured competitive research funding, and mentored students at undergraduate and graduate levels. My long-term goal is to become a distinguished full professor at a globally recognized public university and to contribute to the development of future generations through impactful teaching, innovative research, and dedicated mentorship.
----
-layout: archive
-title: "CV"
-permalink: /cv/
-author_profile: true
-redirect_from:
-  - /resume
----
-
-{% include base_path %}
 
 Education
 ======
