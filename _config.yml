@@ -24,9 +24,9 @@ repository               : "dr-mrashid/dr-mrashid.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr. Mohammed Rashid"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "Assistant Professor"
   location         : "Earth"
   employer         : "Minnesota State University"
   uri              : # URL
