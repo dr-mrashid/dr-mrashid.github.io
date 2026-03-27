@@ -24,7 +24,7 @@ repository               : "dr-mrashid/dr-mrashid.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Mohammed Rashid"
+  name             : "Mohammed Rashid"
   pronouns         : # example: "she/her"  
   bio              : "Assistant Professor"
   location         : "Earth"
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username"bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
