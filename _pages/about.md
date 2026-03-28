@@ -1,48 +1,73 @@
 ---
 permalink: /
-title: "About me"
-title_separator: "-"
+title: "Summary"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I earned my Ph.D. in Electrical Engineering, with an emphasis on Communication and Signal Processing in Systems, from Louisiana State University (LSU), Baton Rouge, LA, USA, in May 2021. From August 2021 to August 2024, I served as a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Michigan State University, East Lansing, MI, USA. Since August 2024, I have been an Assistant Professor in the Department of Electrical and Computer Engineering and Technology at Minnesota State University (MNSU), Mankato, MN, USA.
+I received both my M.Sc. and Ph.D. in Electrical Engineering, with a specialization in Communication and Signal Processing in Systems, from Louisiana State University (LSU), Baton Rouge, LA, USA, in May 2021. During my graduate studies, I developed machine learning–based algorithms for channel estimation and symbol detection in 5G/6G massive MIMO systems, as well as for multi-target localization and tracking in bistatic passive radar systems. From August 2021 to August 2024, I worked as a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Michigan State University (MSU), East Lansing, MI, USA. My research there focused on algorithm development for electrical state coordination in distributed wireless systems, radar-based drone classification, wireless device identification using nonlinear RF tag signatures, and cooperative spectrum sensing in distributed environments. Since August 2024, I have been serving as an Assistant Professor in the Department of Electrical and Computer Engineering Technology at Minnesota State University (MNSU), Mankato, MN, USA.
 
 Throughout my career, I have developed extensive experience in teaching, research, and student mentoring. My teaching interests span core electrical engineering courses as well as artificial intelligence and machine learning courses. My research focuses on the theory and applications of AI/ML for wireless communications and signal processing, particularly in distributed multi-agent wireless systems.
 
-I have authored publications in IEEE journals, delivered invited talks, secured competitive research funding, and mentored students at undergraduate and graduate levels. My long-term goal is to become a distinguished full professor at a globally recognized public university and to contribute to the development of future generations through impactful teaching, innovative research, and dedicated mentorship.
+I have authored publications in IEEE flagship journals, delivered invited talks, secured competitive research funding, and mentored students at undergraduate and graduate levels. My long-term goal is to become a distinguished full professor at a globally recognized public university and to contribute to the development of future generations through impactful teaching, innovative research, and dedicated mentorship.
 
 Education
 ======
 * Ph.D in Electrical Engineering, Louisiana State University, 2021
+  * Invited Membership in Phi Kappa Phi Honor Society (LSU)
 * M.Sc. in Electrical Engineerng, Louisiana State University, 2018
-* B.Sc. in Electrical Engineering, NWFP University of Engineering & Technology,  2014
+  * Invited Membership in Phi Kappa Phi Honor Society (LSU)
+* B.Sc. in Electrical Engineering, NWFP University of Engineering & Technology, 2014
+  * Awarded University Gold Medal for distinction
 
 Professional Appointments
 ======
-* Assistant Professor                         2024 - Present
+* Assistant Professor,                         2024 - Present
   * Department of Electrial and Computer Engineering & Technology
   * Minnesota State University
 
-* Post-Doctoral Research Associate            2021 - 2024
+* Post-Doctoral Research Associate,            2021 - 2024
   * Department of Electrical & Computer Engineering
   * Michigan State University
 
-* Lecturer                                    2013 - 2014
+* Lecturer,                                    2013 - 2014
   * Department of Electrical Engineering
   * NWFP University of Engineering & Technology
   
+Professional Services and Activities
+======
+* Member of IEEE, IEEE ComSoc, IEEE VTS, and MSU postdoc association.
+* Served as a secretary and treasurer for the IEEE Southeastern Michigan section (2022).
+* Actively participated in outreach, community engagement, and diversity improvement at MSU via:
+ * Expo-Booth at MSU Science Festival (2024) on “Next Generation of Wireless Communication” (https://tinyurl.com/4wvwctkz).
+* Research Outreach in MSU on Future Spartan Engineers Preview Day (2023).
+* Research Outreach in MSU at Introduce a Girl to Engineering Event (2022).
+* Reviewer of flagship IEEE journals:
+  * IEEE Transactions on Wireless Communications
+  * IEEE Transactions on Aerospace and Electronic Systems
+  * IEEE Signal Processing Letters
+  * IEEE Wireless Communications Letters
+  * IEEE Access
+* Reviewer of peer-reviewed IEEE conferences:
+  * IEEE EuCAP
+  * IEEE MILCOM
+  * IEEE ICC
+  * IEEE WPMC
+* TPC member for IEEE MILCOM 2023 Track 1 – waveforms and signal processing
+* Session chair at IEEE AP-S/URSI 2023 for radar cross section and target characterization session.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming & Scientific Computing : Matlab & Simulink, C++, Python and ML Libraries (Numpy, Matplotlib, Scipy, Seaborn, Scikit-learn, Pytorch, Keras, Tensorflow), Assembly Language for Microcontrollers
+* Signal Processing & Communication Systems Design Tools : LabView, GNU Radio
+* Wireless Network Simulators : NS2, OPNET Modeler
+* Operating Systems : Windows, Ubuntu, Fedora
+* Course Management Software : D2L, Moodle
+* Version Control Systems : Bitbucket, GitHub
+* Document Preparation Tools : Microsoft Office, LaTeX
+* PCB Design Tool : Autodesk EAGLE
+* Electronic Circuit Design & Simulation Software : LTspice, Multisim
+* 3D Design and Manufacturing Tools : Autodesk CAD, Fusion 360, Prusa Slicer, 3D Printer
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
