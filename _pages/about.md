@@ -19,11 +19,13 @@ Education
   * Major : Electrical Engineering
   * Concentration : Communication Systems and Signal Processing
   * Advisor : Prof. Mort Naraghi-Pour
+  * Awarded Graduate Teaching & Research Assistantship
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
 * **M.Sc. - Louisiana State University, 2018**
   * Major : Electrical Engineering
   * Concentration : Communication Systems and Signal Processing
   * Advisor : Prof. Mort Naraghi-Pour
+  * Awarded Graduate Teaching & Research Assistantship
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
 * **B.Sc. - NWFP University of Engineering & Technology, 2014**
   * Major : Electrical Engineering
