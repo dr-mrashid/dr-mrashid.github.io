@@ -15,11 +15,19 @@ I have authored publications in IEEE flagship journals, delivered invited talks,
 
 Education
 ======
-* **Ph.D in Electrical Engineering, Louisiana State University, 2021**
+* **Ph.D. - Louisiana State University, 2021**
+  * Major : Electrical Engineering
+  * Concentration : Communication Systems and Signal Processing
+  * Advisor : Prof. Mort Naraghi-Pour
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* **M.Sc. in Electrical Engineerng, Louisiana State University, 2018**
+* **M.Sc. - Louisiana State University, 2018**
+  * Major : Electrical Engineering
+  * Concentration : Communication Systems and Signal Processing
+  * Advisor : Prof. Mort Naraghi-Pour
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* **B.Sc. in Electrical Engineering, NWFP University of Engineering & Technology, 2014**
+* **B.Sc. - NWFP University of Engineering & Technology, 2014**
+  * Major : Electrical Engineering
+  * Concentration : Communication Systems
   * Awarded University Gold Medal for distinction
 
 Professional Appointments
