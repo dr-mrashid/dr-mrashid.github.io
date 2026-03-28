@@ -15,24 +15,24 @@ I have authored publications in IEEE flagship journals, delivered invited talks,
 
 Education
 ======
-* Ph.D in Electrical Engineering, Louisiana State University, 2021
+* **Ph.D in Electrical Engineering, Louisiana State University, 2021**
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* M.Sc. in Electrical Engineerng, Louisiana State University, 2018
+* **M.Sc. in Electrical Engineerng, Louisiana State University, 2018**
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* B.Sc. in Electrical Engineering, NWFP University of Engineering & Technology, 2014
+* **B.Sc. in Electrical Engineering, NWFP University of Engineering & Technology, 2014**
   * Awarded University Gold Medal for distinction
 
 Professional Appointments
 ======
-* Assistant Professor,                         2024 - Present
+* **Assistant Professor,                         2024 - Present**
   * Department of Electrial and Computer Engineering & Technology
   * Minnesota State University
 
-* Post-Doctoral Research Associate,            2021 - 2024
+* **Post-Doctoral Research Associate,            2021 - 2024**
   * Department of Electrical & Computer Engineering
   * Michigan State University
 
-* Lecturer,                                    2013 - 2014
+* **Lecturer,                                    2013 - 2014**
   * Department of Electrical Engineering
   * NWFP University of Engineering & Technology
   
@@ -61,14 +61,14 @@ Professional Services and Activities
 
 Skills
 ======
-* Programming & Scientific Computing : Matlab & Simulink, C++, Python and ML Libraries (Numpy, Matplotlib, Scipy, Seaborn, Scikit-learn, Pytorch, Keras, Tensorflow), Assembly Language for Microcontrollers
-* Signal Processing & Communication Systems Design Tools : LabView, GNU Radio
-* Wireless Network Simulators : NS2, OPNET Modeler
-* Operating Systems : Windows, Ubuntu, Fedora
-* Course Management Software : D2L, Moodle
-* Version Control Systems : Bitbucket, GitHub
-* Document Preparation Tools : Microsoft Office, LaTeX
-* PCB Design Tool : Autodesk EAGLE
-* Electronic Circuit Design & Simulation Software : LTspice, Multisim
-* 3D Design and Manufacturing Tools : Autodesk CAD, Fusion 360, Prusa Slicer, 3D Printer
+* **Programming & Scientific Computing :** Matlab & Simulink, C++, Python and ML Libraries (Numpy, Matplotlib, Scipy, Seaborn, Scikit-learn, Pytorch, Keras, Tensorflow), Assembly Language for Microcontrollers
+* **Signal Processing & Communication Systems Design Tools :** LabView, GNU Radio
+* **Wireless Network Simulators :** NS2, OPNET Modeler
+* **Operating Systems :** Windows, Ubuntu, Fedora
+* **Course Management Software :** D2L, Moodle
+* **Version Control Systems :** Bitbucket, GitHub
+* **Document Preparation Tools :** Microsoft Office, LaTeX
+* **PCB Design Tool :** Autodesk EAGLE
+* **Electronic Circuit Design & Simulation Software :** LTspice, Multisim
+* **3D Design and Manufacturing Tools :** Autodesk CAD, Fusion 360, Prusa Slicer, 3D Printer
   
