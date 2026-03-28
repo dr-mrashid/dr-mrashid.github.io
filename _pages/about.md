@@ -38,7 +38,8 @@ Professional Appointments
   
 Professional Services and Activities
 ======
-* Member of IEEE, IEEE ComSoc, IEEE VTS, and MSU postdoc association.
+* Member of IEEE, IEEE ComSoc, and IEEE VTS.
+* Member of MSU postdoc association (2021-2024).
 * Served as a secretary and treasurer for the IEEE Southeastern Michigan section (2022).
 * Actively participated in outreach, community engagement, and diversity improvement at MSU via:
  * Expo-Booth at MSU Science Festival (2024) on “Next Generation of Wireless Communication” (https://tinyurl.com/4wvwctkz).
