@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=RdpuP_wAAAAJ&hl=en)
-
+{:reversed="reversed"}
 Journal Papers
 ============
 10. H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning,” submitted to IEEE Internet of Things, 2025. 
@@ -20,7 +20,7 @@ Journal Papers
 2. M. Naraghi-Pour, M. Rashid and C. Vargas-Rosales, “Semi-Blind Channel Estimation and Data Detection for Multi-Cell Massive MIMO Systems on Time-Varying Channels,” in IEEE Access, vol. 9, pp. 161709-161722, 2021, doi: 10.1109/ACCESS.2021.3132263.
 1. M. Rashid and M. Naraghi-Pour, “Multitarget Joint Delay and Doppler-Shift Estimation in Bistatic Passive Radar,” in IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 3, pp. 1795-1806, June 2020.
 
-
+{:reversed="reversed"}
 Conference Publications
 =======================
 8. U. R. Rehman, A. Abbasi, M. Rashid, “Recognition of UAVs Using Radar-Based Micro-Doppler Signatures and Modern Convolutional Neural Networks” 2025 Undergraduate Research Symposium at Minnesota State University, Mankato, MN.
