@@ -20,8 +20,8 @@ main:
   # - title: "Portfolio"
   #   url: /portfolio/
 
-  # - title: "About"
-  #   url: /about.md/
+  - title: "About"
+    url: /about.md/
 
   - title: "Members"
     url: /members/
