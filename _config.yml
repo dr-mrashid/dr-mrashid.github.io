@@ -237,6 +237,9 @@ kramdown:
 #     permalink: /:collection/:path/
 
 collections:
+  about:
+    output: true
+    permalink: /:collection/:path/
   members:
     output: true
     permalink: /:collection/:path/
