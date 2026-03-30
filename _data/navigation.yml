@@ -21,7 +21,7 @@ main:
   #   url: /portfolio/
 
   - title: "About"
-    url: /about.md/
+    url: /about/
 
   - title: "Members"
     url: /members/
