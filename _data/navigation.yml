@@ -19,11 +19,15 @@ main:
     
   # - title: "Portfolio"
   #   url: /portfolio/
-  - title: "Members"
-    url: /members/
+  - title: "Bio"
+    url: /about.md/
 
   - title: "Research"
     url: /research/
+
+  - title: "Members"
+    url: /members/
+
 
   - title: "Teaching"
     url: /teaching/
