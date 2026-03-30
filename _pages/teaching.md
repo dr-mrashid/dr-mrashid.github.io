@@ -3,7 +3,7 @@ permalink: /teaching/
 title: "Teaching"
 ---
 
-**Minnesota State University, Mankato**
+**Minnesota State University**
 * CIS 418/518: Foundations of Data Science
 * EET 112: Elementary Electricity and Electronics (Online Asynchronous Mode)
 * EET 221: Electronic CAD
