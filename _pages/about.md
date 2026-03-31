@@ -51,9 +51,9 @@ Professional Services and Activities
 * Member of MSU postdoc association (2021-2024).
 * Served as a secretary and treasurer for the IEEE Southeastern Michigan section (2022).
 * Actively participated in outreach, community engagement, and diversity improvement at MSU via:
- * Expo-Booth at MSU Science Festival (2024) on “Next Generation of Wireless Communication” (https://tinyurl.com/4wvwctkz).
-* Research Outreach in MSU on Future Spartan Engineers Preview Day (2023).
-* Research Outreach in MSU at Introduce a Girl to Engineering Event (2022).
+  * Expo-Booth at MSU Science Festival (2024) on “Next Generation of Wireless Communication” (https://tinyurl.com/4wvwctkz).
+  * Research Outreach in MSU on Future Spartan Engineers Preview Day (2023).
+  * Research Outreach in MSU at Introduce a Girl to Engineering Event (2022).
 * Reviewer of flagship IEEE journals:
   * IEEE Transactions on Wireless Communications
   * IEEE Transactions on Aerospace and Electronic Systems
