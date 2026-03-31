@@ -16,7 +16,7 @@ based Algorithms**” (2021). LSU Doctoral Dissertations. 5461. Doi:
 (1.) M. Rashid, "**Multitarget Joint Delay and Doppler Shift Estimation in Bistatic Passive Radar**"
 (2018). LSU Master's Theses. 4678. Doi: 10.31390/gradschool_theses.4678
 
-Journal Papers
+Journal Publications:
 ============
 (10.) H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” submitted to IEEE Internet of Things, 2025.   
 
@@ -39,7 +39,7 @@ Journal Papers
 (1.) M. Rashid and M. Naraghi-Pour, “**Multitarget Joint Delay and Doppler-Shift Estimation in Bistatic Passive Radar**,” in IEEE Transactions on Aerospace and Electronic Systems, vol. 56, no. 3, pp. 1795-1806, June 2020.  
 
 
-Conference Publications
+Conference Publications:
 =======================
 (8.) U. R. Rehman, A. Abbasi, M. Rashid, “**Recognition of UAVs Using Radar-Based Micro-Doppler Signatures and Modern Convolutional Neural Networks**,” 2025 Undergraduate Research Symposium at Minnesota State University, Mankato, MN.  
 
