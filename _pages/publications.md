@@ -7,6 +7,15 @@ author_profile: true
 
 You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=RdpuP_wAAAAJ&hl=en)
 
+Dissertation/Thesis:
+===================
+(2.) M. Rashid, “**Channel Estimation in Multi-user Massive MIMO Systems by Expectation Propagation
+based Algorithms**” (2021). LSU Doctoral Dissertations. 5461. Doi:
+10.31390/gradschool_dissertations.5461  
+
+(1.) M. Rashid, "**Multitarget Joint Delay and Doppler Shift Estimation in Bistatic Passive Radar**"
+(2018). LSU Master's Theses. 4678. Doi: 10.31390/gradschool_theses.4678
+
 Journal Papers
 ============
 (10.) H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” submitted to IEEE Internet of Things, 2025.   
