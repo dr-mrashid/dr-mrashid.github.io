@@ -1,10 +1,7 @@
 ---
-permalink: /
+permalink: /about/
 title: Summary
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 I received both my M.Sc. and Ph.D. in Electrical Engineering, with a specialization in Communication and Signal Processing in Systems, from Louisiana State University (LSU), Baton Rouge, LA, USA, in May 2018 and May 2021, respectively. During my graduate studies, I developed machine learning–based algorithms for channel estimation and symbol detection in 5G/6G massive MIMO systems, as well as for multiple targets delay and Doppler estimation in bistatic passive radar systems. From August 2021 to August 2024, I worked as a Postdoctoral Research Associate in the Department of Electrical and Computer Engineering at Michigan State University (MSU), East Lansing, MI, USA. My research there focused on algorithm development for electrical state coordination in distributed wireless systems, radar-based drone classification, wireless device identification using nonlinear RF tag signatures, and cooperative spectrum sensing in distributed environments. Since August 2024, I have been serving as an Assistant Professor in the Department of Electrical and Computer Engineering Technology at Minnesota State University (MNSU), Mankato, MN, USA.
 
