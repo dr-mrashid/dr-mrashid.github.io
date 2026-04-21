@@ -239,7 +239,7 @@ kramdown:
 #     permalink: /:collection/:path/
 
 collections:
-   home:
+  home:
     output: true
     permalink: /:collection/:path/
   about:
