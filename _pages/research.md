@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "Research Lab"
 permalink: /research/
 author_profile: true
 #header:
