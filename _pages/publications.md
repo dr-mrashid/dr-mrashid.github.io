@@ -5,7 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can also find my publications on my [Google Scholar Profile](https://scholar.google.com/citations?user=RdpuP_wAAAAJ&hl=en)
+You can download my publications either from my [Google Scholar Profile](https://scholar.google.com/citations?user=RdpuP_wAAAAJ&hl=en) 
+or my [ORCID Profile](https://orcid.org/0000-0003-4413-3596).
 
 Dissertation/Thesis:
 ===================
