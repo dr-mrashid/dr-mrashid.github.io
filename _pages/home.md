@@ -6,4 +6,6 @@ redirect_from:
   - /home.html/
 ---
 
-Welcome to my page!
+**Welcome to the home page of Dr. Mohammed Rashid.**
+
+This page will be updated soon!
