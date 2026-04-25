@@ -15,11 +15,9 @@ This page will be updated soon!
     <td style="padding: 0 8px 0 0; margin: 0; border: none; width: 200px;">
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150" style="display: block;">
     </td>
-    <td style="padding: 0; margin: 0; border: none; white-space: nowrap;">
-     <div style="font-size: 14px;">
+    <td style="padding: 0; margin: 0; border: none; white-space: nowrap;  font-size: 14px !important;">
       <strong>Student 1</strong><br>
       This is a short bio of Student 1.
-     </div>
     </td>
   </tr>
 </table>
