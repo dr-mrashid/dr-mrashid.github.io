@@ -7,30 +7,27 @@ author_profile: true
  # og_image: "research/ecdf.png"
 ---
 
-**Director**
 
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td style="padding-right: 8px;">
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150">
     </td>
     <td>
-      <strong>Person A</strong><br>
-      This is the short bio
+      <strong>Student A</strong><br>
+      This is your second column. It will align perfectly next to the first.
     </td>
   </tr>
 </table>
 
-**Students**
-
-<table border="0">
+<table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td>
+    <td style="padding-right: 8px;">
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150">
     </td>
     <td>
-      <strong>Person B</strong><br>
-      This is the short bio
+      <strong>Student B</strong><br>
+      This is your second column. It will align perfectly next to the first.
     </td>
   </tr>
 </table>
