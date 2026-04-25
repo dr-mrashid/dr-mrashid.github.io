@@ -16,7 +16,7 @@ This page will be updated soon.
        width="300"
        style="display: block;" />
 
-  <div style="font-size: 12px; font-weight: bold; color: #333; margin-top: 5px;">
+  <div style="font-size: 12px; color: #333; margin-top: 5px;">
     <strong> Fig. </strong> Insert the figure caption.
   </div>
 </div>
