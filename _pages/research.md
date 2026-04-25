@@ -9,14 +9,24 @@ author_profile: true
 This page will be updated soon.
 
 **Project 1**:
-<div style="float: right; margin: 0 15px 10px 0; text-align: center; width: 300px;">
+<div style="float: left; width: 150px; height: 150px; margin: 0 15px 10px 0; position: relative;">
+  
   <img src="/images/500x300.png"
        alt="Description"
-       height="300"
-       width="300"
+       height="150"
+       width="150"
        style="display: block;" />
 
-  <div style="font-size: 12px; font-weight: bold; color: #333; margin-top: 5px;">
+  <div style="
+      position: absolute;
+      top: 155px;
+      left: 0;
+      width: 100%;
+      font-size: 12px;
+      font-weight: bold;
+      color: #333;
+      text-align: center;
+  ">
     Morning walk in nature
   </div>
 </div>
