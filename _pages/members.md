@@ -10,7 +10,7 @@ author_profile: true
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="padding-right: 8px;">
+    <td style="padding-right: 3px;">
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150">
     </td>
     <td>
@@ -22,7 +22,7 @@ author_profile: true
 
 <table border="0" cellpadding="0" cellspacing="0">
   <tr>
-    <td style="padding-right: 8px;">
+    <td style="padding-right: 3px;">
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150">
     </td>
     <td>
