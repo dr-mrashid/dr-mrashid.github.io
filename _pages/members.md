@@ -8,6 +8,7 @@ author_profile: true
 
 
 
+This page will be updated soon!
 
 <table style="border-collapse: collapse; border-spacing: 0; margin: 0; padding: 0; border: none; width: auto;">
   <tr>
@@ -15,8 +16,8 @@ author_profile: true
       <img src="/images/bio-photo.jpg" alt="Bio Photo" width="150" height="150" style="display: block;">
     </td>
     <td style="padding: 0; margin: 0; border: none; white-space: nowrap;">
-      <strong>Student A</strong><br>
-      This is your second column. It will align closely next to the image.
+      <strong>Student 1</strong><br>
+      This is a short bio of Student 1.
     </td>
   </tr>
 </table>
