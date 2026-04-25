@@ -9,7 +9,7 @@ author_profile: true
 This page will be updated soon.
 
 **Project 1**:
-<div style="float: right; margin: 5px 15px 10px 0; text-align: center; width: 300px;">
+<div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
   <img src="/images/500x300.png"
        alt="Description"
        height="300"
