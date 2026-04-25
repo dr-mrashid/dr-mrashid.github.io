@@ -7,6 +7,4 @@ author_profile: true
  # og_image: "research/ecdf.png"
 ---
 
-![image](/images/bio-photo.jpg){: style="float: left"}
-
-This page will be updated soon.
+![image](/images/bio-photo.jpg) {This page will be updated soon}
