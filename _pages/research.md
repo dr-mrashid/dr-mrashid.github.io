@@ -11,7 +11,9 @@ This page will be updated soon.
 
 **Openings:**
 
-I am continually seeking highly motivated students to join my research group and welcome research collaborations with faculty members from universities worldwide. Interested candidates and faculty members are encouraged to share their CV along with a research proposal or relevant manuscripts via email. Please note that due to the high volume of applications received, only shortlisted applicants will be contacted for further correspondence.
+I am continually seeking highly motivated students to join my research group and welcome research collaborations with faculty members from universities worldwide. Interested candidates are encouraged to share their CV and research interests via email. 
+
+However, please note that due to the high volume of applications received, only shortlisted applicants will be contacted for further correspondence.
 
 
 **Project 1:**
