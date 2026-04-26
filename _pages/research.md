@@ -9,11 +9,12 @@ author_profile: true
 This page will be updated soon.
 
 
-**Openings**
+**Openings:**
+
 I am continually seeking highly motivated students to join my research group and welcome research collaborations with faculty members from universities worldwide. Interested candidates and faculty members are encouraged to share their CV along with a research proposal or relevant manuscripts via email. Please note that due to the high volume of applications received, only shortlisted applicants will be contacted for further correspondence.
 
 
-**Project 1**:
+**Project 1:**
 <div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
   <img src="/images/500x300.png"
        alt="Description"
