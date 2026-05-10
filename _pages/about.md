@@ -63,7 +63,9 @@ Professional Services and Activities
 
 Skills
 ======
-* **Programming & Scientific Computing :** Matlab & Simulink, C++, Python and ML Libraries (Numpy, Matplotlib, Scipy, Seaborn, Scikit-learn, Pytorch, Keras, Tensorflow), Assembly Language for Microcontrollers
+* **Programming & Scientific Computing :** Matlab & Simulink, C++, Python 
+  * Python Libraries : Numpy, Matplotlib, Scipy, Seaborn, HoloViews, Scikit-learn, Pytorch, Keras, Tensorflow, Numba, Cupy, Ray Tune, Statsmodels, Jax
+  * Assembly Language for Microcontrollers
 * **Signal Processing & Communication Systems Design Tools :** LabView, GNU Radio
 * **Wireless Network Simulators :** NS2, OPNET Modeler
 * **Operating Systems :** Windows, Ubuntu, Fedora
