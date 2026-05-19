@@ -7,11 +7,12 @@ author_profile: true
 ---
 
 
-<p align="center">
-  <img src="/images/DiSCOM_MR.jpg" width="120"><br><br>
-  <b>Distributed Intelligent Sensing and Communication Lab</b><br>
-  From Sensing to Collective Intelligence
-</p>
+<h1 align="center" style="font-size: 24px;"> 
+ <img src="/images/DiSCOM_MR.jpg" alt="Lab Emblem" height="120" width="120" style="vertical-align: middle; margin-right: 15px;"> 
+ Distributed Intelligent Sensing and Communication Lab </h1> 
+ <p align="center" style="font-size: 18px;"> 
+  From Sensing to Collective Intelligence 
+ </p>
  
 This page is under construction.
 
