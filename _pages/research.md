@@ -7,7 +7,7 @@ author_profile: true
 ---
 <h1 align="center" style="font-size: 12px;"> Distributed Intelligent Sensing and Communication Lab </h1>
 <p align="center" style="font-size: 8px;">
-  More Data Smarter Accuracy.
+  More Data, Smarter Accuracy.
 </p>
 
 This page is under construction.
