@@ -5,9 +5,9 @@ author_profile: true
 #header:
  # og_image: "research/ecdf.png"
 ---
-<h1 align="center" style="font-size: 12px;"> Distributed Intelligent Sensing and Communication Lab </h1>
-<p align="center" style="font-size: 8px;">
-  More Data, Smarter Accuracy.
+<h1 align="center" style="font-size: 56px;"> Distributed Intelligent Sensing and Communication Lab </h1>
+<p align="center" style="font-size: 36px;">
+  From Sensing to Collective Intelligence
 </p>
 
 This page is under construction.
