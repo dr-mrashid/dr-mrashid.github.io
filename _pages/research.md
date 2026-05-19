@@ -6,7 +6,7 @@ author_profile: true
  # og_image: "research/ecdf.png"
 ---
 <h1 align="center" style="font-size: 24px;"> 
- <img src="/images/500x300.png" alt="Lab Emblem" width="60" 
+ <img src="/images/DiSCOM_MR.png" alt="Lab Emblem" width="60" 
        style="vertical-align: middle; margin-right: 15px;">
  Distributed Intelligent Sensing and Communication Lab </h1>
 <p align="center" style="font-size: 18px;">
