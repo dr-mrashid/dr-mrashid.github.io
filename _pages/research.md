@@ -6,6 +6,19 @@ author_profile: true
  # og_image: "research/ecdf.png"
 ---
 
+<p align="left">
+  <img src="/images/DiSCOM_MR.jpg" alt="Lab Emblem" width="120" style="vertical-align: middle;">
+
+  <span style="display: inline-block; vertical-align: middle; margin-left: 12px;">
+    <span style="font-size: 24px; font-weight: bold; line-height: 1.1;">
+      Distributed Intelligent Sensing and Communication Lab
+    </span>
+    <br>
+    <span style="font-size: 18px; line-height: 1.1;">
+      From Sensing to Collective Intelligence
+    </span>
+  </span>
+</p>
 
 <h1 align="center" style="font-size: 24px;"> 
  <img src="/images/DiSCOM_MR.jpg" alt="Lab Emblem" height="120" width="120" style="vertical-align: middle; margin-right: 15px;"> 
