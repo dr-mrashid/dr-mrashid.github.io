@@ -6,7 +6,7 @@ author_profile: true
  # og_image: "research/ecdf.png"
 ---
 <h1 align="center" style="font-size: 24px;"> Distributed Intelligent Sensing and Communication Lab </h1>
-<p align="center" style="font-size: 18px;">
+<p align="center" style="font-size: 16px;">
   From Sensing to Collective Intelligence
 </p>
 
