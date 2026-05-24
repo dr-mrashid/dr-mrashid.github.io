@@ -6,7 +6,7 @@ title: "Teaching"
 **Minnesota State University**
 * CIS 418/518: Foundations of Data Science
 * EET 112: Elementary Electricity and Electronics (Online Asynchronous Mode)
-* EET 221: Electronic CAD
+* EET 221: Electronic CAD for PCB Design and Fabrication
 * EET 113: DC Circuits
 * EET 341: Electronic Shop Practices
 * EE 106 Fundamental Digital System Design for ECE
