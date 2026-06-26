@@ -43,7 +43,7 @@ However, please note that due to the high volume of applications received, only 
 </div>
 
 <p>
-This section presents the big-picture perspective of the research carried out in the DiSCOM Lab. 
+This section presents the big-picture perspective of the research carried out at the DiSCOM Lab. 
 </p>
 
 **Project 1:**
