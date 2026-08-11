@@ -25,9 +25,7 @@ This page is under construction.
 
 **Openings:**
 
-I am continually seeking highly motivated students to join my research group and welcome research collaborations with faculty members from universities worldwide. Interested candidates are encouraged to share their CV and research interests via email. 
-
-However, please note that due to the high volume of applications received, only shortlisted applicants will be contacted for further correspondence.
+To be advertised soon.
 
 **Research Overview:**
 <div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
