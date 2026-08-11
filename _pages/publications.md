@@ -19,7 +19,7 @@ based Algorithms**” (2021). LSU Doctoral Dissertations. 5461. Doi:
 
 Journal Publications:
 ============
-(10.) H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” submitted to IEEE Internet of Things, 2025.   
+(10.) H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” under review in IEEE Journal of Microwaves, 2026.   
 
 (9.) W. R. Torres, M. Rashid, R. Hipple, T. Chang and J. A. Nanzer, “**Decentralized Wireless Frequency Synchronization Using Spectrally Sparse, Frequency Hopping Waveforms for Distributed Phased Arrays**,” submitted to IEEE Transactions on Microwave Theory and Techniques, 2025.  
 
