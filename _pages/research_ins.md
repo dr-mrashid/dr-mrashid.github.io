@@ -1,6 +1,6 @@
 ---
 layout: archive
-permalink: /research/
+permalink: /research_ins/
 author_profile: true
 title: "Research"
 #header:
