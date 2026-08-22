@@ -14,8 +14,8 @@ main:
   - title: "About Me"
     url: /about/
 
-  - title: "Members"
-    url: /members/
+#  - title: "Members"
+ #   url: /members/
     
 
   - title: "DiSCOM Lab"
