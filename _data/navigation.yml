@@ -18,12 +18,9 @@ main:
  #   url: /members/
     
 
-#  - title: "DiSCOM Lab"
+  - title: "DiSCOM Lab"
 #    url: /research/
-
-  - title: "Research"
     url: /research_ins/
-
 
   - title: "Teaching"
     url: /teaching/
