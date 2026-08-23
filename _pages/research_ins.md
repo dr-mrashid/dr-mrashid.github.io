@@ -15,7 +15,7 @@ Our research focuses on the theory and applications of AI/ML to develop innovati
        style="display: block;" />
 
   <div style="font-size: 14px; color: #333; margin-top: 5px;">
-    <strong> Fig. </strong> Distributed wireless systems for wireless communications, radar, and remote sensing applications.
+    <strong> Distributed wireless systems for wireless communications, radar, and remote sensing applications. </strong>
   </div>
 </div>
 
