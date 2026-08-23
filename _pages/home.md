@@ -8,7 +8,7 @@ redirect_from:
 
 **Welcome to the home page of Dr. Mohammed Rashid.**
 
-I am an Assistant Professor in the Department of Electrical and Computer Engineering and Technology at Minnesota State University (MNSU), Mankato, MN. 
+I am an Assistant Professor in the Department of Electrical and Computer Engineering and Robotics at Minnesota State University (MNSU), Mankato, MN. 
 At MNSU, I also direct the Distributed Intelligent Sensing and Communication (DiSCOM) Lab, where our research focuses on the theory and applications of AI/ML to develop algorithms and techniques for a wide range of applications and coordination challenges in distributed multi-agent wireless systems. 
 
 Please visit my [DiSCOM Lab](https://dr-mrashid.github.io/research) page for additional details related to my research interests.
