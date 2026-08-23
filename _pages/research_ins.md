@@ -7,10 +7,23 @@ author_profile: true
 ---
 Our research focuses on the theory and applications of AI/ML to develop innovative algorithms and techniques for distributed multi-agent wireless systems. We are particularly interested in addressing challenging coordination, sensing, communication, and optimization problems arising in these systems.
 
+<div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
+  <img src="/images/500x300.png"
+       alt="Description"
+       height="300"
+       width="300"
+       style="display: block;" />
+
+  <div style="font-size: 14px; color: #333; margin-top: 5px;">
+    <strong> Fig. </strong> Insert the figure caption.
+  </div>
+</div>
+
+<p>
 Our research interests include, but are not limited to:
 
 - Distributed 5G/6G communication systems
 - UAVs and UGVs based sensing and communication systems
 - Distributed radar systems
-
+</p>
 If you are interested in our research or would like to explore opportunities for collaboration, please feel free to contact our lab director, Dr. Rashid, via email.
