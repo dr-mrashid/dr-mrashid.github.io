@@ -8,7 +8,7 @@ author_profile: true
 Our research focuses on the theory and applications of AI/ML to develop innovative algorithms and techniques for distributed multi-agent wireless systems. We are particularly interested in addressing challenging coordination, sensing, communication, and optimization problems arising in these systems.
 
 <div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
-  <img src="/images/500x300.png"
+  <img src="/images/0-Lab-Concept-Overview_pic.jpg"
        alt="Description"
        height="300"
        width="300"
