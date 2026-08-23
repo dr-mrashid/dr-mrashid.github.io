@@ -28,7 +28,7 @@ Education
 Professional Appointments
 ======
 * **Assistant Professor,                         2024 - Present**
-  * Department of Electrial and Computer Engineering & Technology
+  * Department of Electrial and Computer Engineering and Robotics
   * Minnesota State University
 
 * **Post-Doctoral Research Associate,            2021 - 2024**
