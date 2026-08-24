@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in the Department of Electrical and Computer Engineering and Robotics at Minnesota State University (MNSU), Mankato, MN. 
 At MNSU, I also direct the Distributed Intelligent Sensing and Communication (DiSCOM) Lab, where our research focuses on the theory and applications of AI/ML to develop algorithms and techniques for a wide range of applications and coordination challenges in distributed multi-agent wireless systems. 
 
-Please visit my [DiSCOM Lab](https://dr-mrashid.github.io/research) page for additional details related to my research interests.
+Please visit my [DiSCOM Lab](https://dr-mrashid.github.io/research_ins) page for additional details related to my research interests.
 
 My teaching interests focus on Electrical Engineering courses, with a particular emphasis on Communication and Signal Processing in Systems, as well as courses related to AI/ML.
 
