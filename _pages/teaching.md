@@ -8,9 +8,12 @@ title: "Teaching"
 * EET 112: Elementary Electricity and Electronics (Online Asynchronous Mode)
 * EET 221: Electronic CAD for PCB Design and Fabrication
 * EET 113: DC Circuits
+* EE 231: Circuit Analysis II
 * EET 341: Electronic Shop Practices
 * EE 106 Fundamental Digital System Design for ECE
+* EE 450/580: Engineering Economics
 * EE 478/578: DSP Lab
+* EE 342: Electronics Lab
 
 **Louisiana State University** 
 * EE 3150: Probability for ECE
