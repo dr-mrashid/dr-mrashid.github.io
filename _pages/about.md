@@ -1,10 +1,9 @@
 ---
 permalink: /about/
+title: Education
 author_profile: true
 ---
 
-Education
-======
 * **Ph.D. - Louisiana State University, 2021**
   * Major : Electrical Engineering
   * Concentration : Communication Systems and Signal Processing
