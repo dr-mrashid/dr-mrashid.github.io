@@ -16,31 +16,31 @@ author_profile: true
   * Advisor : Prof. Mort Naraghi-Pour
   * Awarded Graduate Teaching & Research Assistantship
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* **B.Sc. - NWFP University of Engineering & Technology, Peshawar, Pakistan,    October 2012**
+* **B.Sc. - NWFP University of Engineering & Technology, Peshawar, Pakistan,    Oct. 2012**
   * Major : Electrical Engineering
   * Concentration : Communication Systems
   * Awarded University Gold Medal for distinction
 
 Professional Experience
 ======
-* **Assistant Professor,                        August 2024 - Present**
+* **Assistant Professor,  Aug. 2024 - Present**
   * Department of Electrial, Computer, and Robotics Engineering
   * (Previously Named: Department of Electrical and Computer Engineering & Technology)
   * Minnesota State University, Mankato, MN, USA
 
-* **Post-Doctoral Research Associate, August 2021 – August 2024**
+* **Post-Doctoral Research Associate, Aug. 2021 – Aug. 2024**
   * Department of Electrical & Computer Engineering
   * Michigan State University, East Lansing, MI, USA
 
-* **Graduate Teaching Assistant, August 2017 – May 2021**
+* **Graduate Teaching Assistant, Aug. 2017 – May 2021**
   * Division of Electrical & Computer Engineering,
   * Louisiana State University, Baton Rouge, LA, USA
 
-* **Graduate Research Assistant, August 2014 – May 2020**
+* **Graduate Research Assistant, Aug. 2014 – May 2020**
   * Division of Electrical & Computer Engineering,
   * Louisiana State University, Baton Rouge, LA, USA
 
-* **Lecturer, February 2013 – July 2014**
+* **Lecturer, Feb. 2013 – July 2014**
   * Department of Electrical Engineering,
   * NWFP University of Engineering & Technology, Peshawar, Pakistan
   
