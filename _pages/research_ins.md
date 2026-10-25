@@ -22,8 +22,8 @@ Our research focuses on the theory and applications of AI/ML to develop innovati
 
 Our research interests include, but are not limited to:
 
-- Distributed 5G/6G communication systems
-- UAVs and UGVs based sensing and communication systems
-- Distributed radar systems
+- Distributed Channel Estimation, Symbols Detection, and Spectrum Sensing in 5G/6G Communication Systems
+- UAVs and UGVs based Integrated Sensing and Communication
+- Targets Detection, Localization, and Tracking in Distributed Radar Systems
 
-If you are interested in our research or would like to explore opportunities for collaboration, please feel free to contact our lab director, Dr. Rashid, via email.
+If you are interested in our research or would like to collaborate with us, please feel free to contact Dr. Rashid via email.
