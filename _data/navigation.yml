@@ -11,9 +11,6 @@ main:
   - title: "Home"
     url: /home/
     
-  - title: "About Me"
-    url: /about/
-
 #  - title: "Members"
  #   url: /members/
     
@@ -27,5 +24,8 @@ main:
 
   - title: "Publications"
     url: /publications/
+
+  - title: "My Resume"
+    url: /about/
 
 
