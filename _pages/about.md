@@ -4,19 +4,19 @@ title: Education
 author_profile: true
 ---
 
-* **Ph.D. - Louisiana State University, Baton Rouge, LA, USA 2021**
+* **Ph.D. - Louisiana State University, Baton Rouge, LA, USA,     2021**
   * Major : Electrical Engineering
   * Concentration : Communication Systems and Signal Processing
   * Advisor : Prof. Mort Naraghi-Pour
   * Awarded Graduate Teaching & Research Assistantship
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* **M.Sc. - Louisiana State University, Baton Rouge, LA, USA 2018**
+* **M.Sc. - Louisiana State University, Baton Rouge, LA, USA,     2018**
   * Major : Electrical Engineering
   * Concentration : Communication Systems and Signal Processing
   * Advisor : Prof. Mort Naraghi-Pour
   * Awarded Graduate Teaching & Research Assistantship
   * Invited Membership in Phi Kappa Phi Honor Society (LSU)
-* **B.Sc. - NWFP University of Engineering & Technology, Peshawar, Pakistan 2014**
+* **B.Sc. - NWFP University of Engineering & Technology, Peshawar, Pakistan,     2014**
   * Major : Electrical Engineering
   * Concentration : Communication Systems
   * Awarded University Gold Medal for distinction
@@ -25,15 +25,15 @@ Professional Experience
 ======
 * **Assistant Professor,                         2024 - Present**
   * Department of Electrial, Computer, and Robotics Engineering
-  * Minnesota State University
+  * Minnesota State University, Mankato, MN, USA
 
 * **Post-Doctoral Research Associate,            2021 - 2024**
   * Department of Electrical & Computer Engineering
-  * Michigan State University
+  * Michigan State University, East Lansing, MI, USA
 
 * **Lecturer,                                    2013 - 2014**
   * Department of Electrical Engineering
-  * NWFP University of Engineering & Technology
+  * NWFP University of Engineering & Technology, Peshawar, Pakistan
   
 Professional Services and Activities
 ======
