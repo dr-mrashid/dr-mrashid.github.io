@@ -21,7 +21,7 @@ Journal Publications:
 ============  
 (10.) W. R. Torres, M. Rashid, R. Hipple, T. Chang and J. A. Nanzer, “**Decentralized Wireless Frequency Synchronization Using Spectrally Sparse, Frequency Hopping Waveforms for Distributed Phased Arrays**,” in preparation for IEEE Journal of Microwaves, 2026.  
 
-(9.) H. Cory, M. Rashid, Faiz Sherman, Steven Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” accepted in IEEE Journal of Microwaves, 2026. 
+(9.) H. Cory, M. Rashid, F. Sherman, S. Bush, and J. A. Nanzer, “**Passive Microwave Tag Classification Using RF Fingerprinting and Machine Learning**,” in IEEE Journal of Microwaves, doi: 10.1109/JMW.2026.3733367.
 
 (8.) M. Rashid and J. A. Nanzer, “**Expectation-Maximization Aided Modified Weighted Sequential Energy Detector for Distributed Cooperative Spectrum Sensing**,” in IEEE Access, vol. 13, pp. 24880-24893, 2025.   
 
