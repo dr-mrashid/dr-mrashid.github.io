@@ -27,4 +27,4 @@ Our research interests include, but are not limited to:
 - UAVs and UGVs based Integrated Sensing and Communication
 - Targets Detection, Localization, and Tracking in Distributed Radar Systems
 
-If you are interested in our research or would like to collaborate with us, please feel free to contact Dr. Rashid via email.
+If you are interested in our research and would like to collaborate, please contact Dr. Rashid via email.
