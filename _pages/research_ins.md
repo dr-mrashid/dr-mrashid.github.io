@@ -25,6 +25,6 @@ Active research thrusts includes:
 
 - **Autonomous Mobile ISAC:** Integrated Sensing and Communication deployed via UAVs and UGVs.
 
-- **Distributed Radar & Perception:** Multiple targets detection, localization, and tracking.
+- **Distributed Radar Sensing & Perception:** Targets detection, classification, localization, and tracking.
 
 If you are interested in our research and would like to collaborate, please contact Dr. Rashid via email.
