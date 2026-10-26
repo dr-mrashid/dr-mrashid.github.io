@@ -20,10 +20,9 @@ Our research focuses on the theory and applications of AI/ML to develop innovati
 </div>
 
 
-Our research interests include, but are not limited to:
+Our current research focuses on the following areas:
 
-- Distributed Channel Estimation and Spectrum Sensing in Communication Systems
-- Distributed Synchronization in Wireless Networks
+- Distributed Synchronization, Channel Estimation, and Spectrum Sensing in Wireless Networks
 - UAVs and UGVs based Integrated Sensing and Communication
 - Targets Detection, Localization, and Tracking in Distributed Radar Systems
 
