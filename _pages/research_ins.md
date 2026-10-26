@@ -5,7 +5,7 @@ author_profile: true
 #header:
  # og_image: "research/ecdf.png"
 ---
-Our research focuses on the theory and applications of AI/ML to develop innovative algorithms and techniques for distributed multi-agent wireless systems. We are particularly interested in addressing challenging coordination, sensing, communication, and optimization problems arising in these systems.
+Our research interests are in the theory and applications of AI/ML to develop innovative algorithms and techniques for distributed multi-agent wireless systems. We are particularly interested in addressing challenging coordination, sensing, communication, and optimization problems arising in these systems.
 
 <div style="float: right; margin: 5px 15px 0 0; text-align: center; width: 300px;">
   <img src="/images/0-Lab-Concept-Overview_pic.jpg"
