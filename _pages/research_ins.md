@@ -19,11 +19,12 @@ Our research focuses on the theory and applications of AI/ML to develop innovati
   </div>
 </div>
 
+Active research thrusts includes: 
 
-Current research areas of interest includes, but not limited to:
+- **Distributed Wireless Network:** Synchronization, channel estimation, and dynamic spectrum sensing.
 
-- Distributed Synchronization, Channel Estimation, and Spectrum Sensing in Wireless Networks
-- UAVs and UGVs based Integrated Sensing and Communication
-- Targets Detection, Localization, and Tracking in Distributed Radar Systems
+- **Autonomous Mobile ISAC:** Integrated Sensing and Communication deployed via UAVs and UGVs.
+
+- **Distributed Radar & Perception:** Multiple targets detection, localization, and tracking.
 
 If you are interested in our research and would like to collaborate, please contact Dr. Rashid via email.
