@@ -21,9 +21,9 @@ Our research focuses on the theory and applications of AI/ML to develop innovati
 
 Active research thrusts includes: 
 
-- **Distributed Wireless Network:** Synchronization, channel estimation, and dynamic spectrum sensing.
+- **Distributed Wireless Network:** Synchronization, spectrally efficient and secure communication, channel estimation, and dynamic spectrum sensing.
 
-- **Autonomous Mobile ISAC:** Integrated Sensing and Communication deployed via UAVs and UGVs.
+- **Autonomous Mobile ISAC System:** Integrated Sensing and Communication deployed via UAVs and UGVs.
 
 - **Distributed Radar Sensing & Perception:** Targets detection, classification, localization, and tracking.
 
